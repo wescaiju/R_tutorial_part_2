@@ -1,4 +1,4 @@
-# R_tutorial_part_1
+# R tutorial part 1
 For part 1 of R lesson at YSM Library
 
 ``` r
