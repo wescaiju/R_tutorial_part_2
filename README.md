@@ -1,5 +1,5 @@
 # R tutorial part 1
-For part 1 of R lesson at YSM Library
+R lesson at YSM Library
 
 ``` r
 # Test code block
