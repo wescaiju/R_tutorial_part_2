@@ -3,7 +3,8 @@ R lesson at YSM Library
 
 ``` r
 # Test code block
-library(ggplot2)
+# Library for reshaping data
+library(tidyr)
 
 for(i in 1:5){
   print(i)
