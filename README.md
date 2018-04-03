@@ -12,3 +12,6 @@ for(i in 1:5){
 
 ```
 
+## Useful R packages
+
+[RStartHere](https://github.com/rstudio/RStartHere)
