@@ -1,4 +1,4 @@
-symbol
+gene_symbol
 Gata3
 Tgfb1
 Foxp3
