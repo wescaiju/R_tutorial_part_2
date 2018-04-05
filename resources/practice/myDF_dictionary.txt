@@ -1,6 +1,6 @@
-animals description
-corgi best friend
-subaru  best car
-sushi best food
-mouse best model
-cat worst enemy
+animals	description
+corgi	best friend
+subaru	best car
+sushi	best food
+mouse	best model
+cat	worst enemy
