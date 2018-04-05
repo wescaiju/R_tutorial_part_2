@@ -1,14 +1,18 @@
 # R tutorial part 1
 R lesson at YSM Library
 
+### Start your engines.
 ``` r
-# Test code block
-# Library for reshaping data
-library(tidyr)
+# Last Updated: 180405
+# Author: Wesley Cai
+# Purpose: To demonstrate how to start engines
 
-for(i in 1:5){
-  print(i)
-}
+# Set working directory (for Mac), windows uses "C:/myFolder"
+setwd("/Users/myFolder")
+
+# Load packages
+library(ggplot2)
+library(ComplexHeatmap)
 
 ```
 
