@@ -1,6 +1,0 @@
-animals,description
-corgi,best_friend
-subaru,best_car
-sushi,best_food
-mouse,best_model
-cat,worst_enemy
